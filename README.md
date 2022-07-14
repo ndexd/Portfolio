@@ -6,4 +6,4 @@ Mid-core multiplayer game build using Photon engine : https://play.google.com/st
 Some casual prototype games : 
 1. Lumberjack : https://play.google.com/store/apps/details?id=com.singularitylab.idlelumberjack&hl=en&gl=US
 2. Farm defense: https://drive.google.com/drive/folders/15kZue0j_KmyTf8qCHPvNKCgATI-wao1W?usp=sharing
-3. Idle Imperium:  https://play.google.com/store/apps/details?id=com.SingularityLab.IdleImperium&hl=en&gl=US
+3. Idle Raft:  https://play.google.com/store/apps/details?id=com.singularitylab.idleraft&hl=en&gl=US
